@@ -1,5 +1,5 @@
 from __future__ import print_function
-from src.conn import *
+import src.PythonPosgresql.conn
 from abc import ABCMeta,abstractmethod
 import os,sys,math,psycopg2
 

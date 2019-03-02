@@ -1,4 +1,4 @@
-from src.Fruit import *
+from src.PythonPosgresql.Fruit import *
 import psycopg2
 def main():
     try:
